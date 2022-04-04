@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "moment": "^2.29.2",
+    "mysql2": "^2.3.3"
+  }
+}
